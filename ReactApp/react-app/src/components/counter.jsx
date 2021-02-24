@@ -1,4 +1,5 @@
 // Counter component that renders the indvidual counter
+//This is a test
 
 import React, { Component } from "react";
 
