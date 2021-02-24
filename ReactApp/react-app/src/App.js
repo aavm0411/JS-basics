@@ -1,4 +1,6 @@
 // import logo from './logo.svg';
+// This program was created following this tutorial
+//  https://www.youtube.com/watch?v=Ke90Tje7VS0&ab_channel=ProgrammingwithMosh
 import NavBar from './components/navbar';
 import './App.css';
 import React, { Component } from 'react';
