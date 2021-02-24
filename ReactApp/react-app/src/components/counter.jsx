@@ -2,6 +2,7 @@
 //This is a test
 
 import React, { Component } from "react";
+// more test
 
 class Counter extends Component {
   render() {
